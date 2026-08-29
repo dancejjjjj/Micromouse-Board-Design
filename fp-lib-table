@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "custom_motor_driver") (type "KiCad") (uri "D:/KiCAD/footprintLib/custom_motor_driver.pretty") (options "") (descr ""))
+	(lib (name "custom_PCF8574") (type "KiCad") (uri "D:/KiCAD/footprintLib/custom_PCF8574.pretty") (options "") (descr ""))
+)
