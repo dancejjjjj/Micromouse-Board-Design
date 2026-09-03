@@ -12,15 +12,10 @@ Hardware schematics and design files for an autonomous Micromouse robot based on
 
 ## 🧩 Bill of Materials (Key Components)
 
-| Component | Model / Description | Function |
-| :--- | :--- | :--- |
-| **MCU** | ESP32-S3 SuperMini | Main controller (Logic, Navigation, PID) |
-| **I/O Expander** | PCF8574 (I2C) | GPIO expansion for sensor control / indicators |
-| **Motors** | GA12-N20 Micro Gearmotors | Differential drive with dual-channel quadrature encoders |
-| **Motor Driver** | TB6612FNG Dual H-Bridge | Motor direction and PWM speed control |
-| **Distance Sensors** | VL6180 (ToF / Range Finder) | Wall detection & precise distance sensing (I2C) |
-| **Power Management**| Step-Down Buck Converter (to 3.3V) | High-efficiency voltage regulation for MCU and logic |
-| **Circuit Base** | Prototype Board (Perfboard FR4) | Point-to-point hand-soldered foundation |
+![image alt](https:://github.com/dancejjjjj/Micromouse-Board-Design/assets/BOM.png)
+
+Google sheet link here:
+https://docs.google.com/spreadsheets/d/1piouLKvGbAHOj3b3Lox_jSpBq9OYytLLw8UId9fDQRM/edit?usp=sharing
 
 ---
 
@@ -29,10 +24,11 @@ Hardware schematics and design files for an autonomous Micromouse robot based on
 ```text
 .
 ├── hardware/
-│   ├── micromouse.kicad_pro     # KiCad Project File
-│   ├── micromouse.kicad_sch     # Full Circuit Schematic (Primary reference)
-│   ├── micromouse.kicad_pcb     # Reference PCB Layout (Do NOT fabricate directly)
-│   └── micromouse.kicad_prl     # Project Local Settings
+|   ├── pcb/
+│   |   ├── micromouse.kicad_pro     # KiCad Project File
+│   |   ├── micromouse.kicad_sch     # Full Circuit Schematic (Primary reference)
+│   |   └── micromouse.kicad_pcb     # Reference PCB Layout (Do NOT fabricate directly)
+|   └── BOM.csv
 └── README.md
 ```
 ## View it 
