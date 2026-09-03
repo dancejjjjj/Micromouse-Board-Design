@@ -1,18 +1,18 @@
 Item Name,Price (VND),Price (USD),Qty,Price (total) (USD),Item link,Notes
-ESP32-s3 SUPER MINI,129.900 ₫,"$4,98",1,"$4,98",ESP32-S3  | Shopee VN,
-TOF050C VL6180,72.226 ₫,"$2,77",3,"$8,31",TOF050C | Shopee VN,
-DC GA12 N20 DC Geared Motor 6VDC 300RPM,150.000 ₫,"$5,75",2,"$11,51",DC Servo GA12 N20 DC Geared Motor ,
-MCU-8574 PCF8574T,41.340 ₫,"$1,59",1,"$1,59",MCU8574 | Shopee VN,
-TB6612FNG,55.000 ₫,"$2,11",1,"$2,11",TB6612 1A | Shopee VN,
-Buck Converter,25.000 ₫,"$0,96",1,"$0,96",Step-down converter | Shopee VN,
-Switch,15.000 ₫,"$0,58",1,"$0,58",Power Switch | Shopee VN,
-Ball Wheel,27.500 ₫,"$1,05",1,"$1,05",Ball Wheels | Shopee VN,
-N20 Wheels,20.000 ₫,"$0,77",2,"$1,53",Wheel for GA12-N20 34mm | Shopee VN,
-Perf Board,25.500 ₫,"$0,98",1,"$0,98",Perfboard | Shopee VN,
-Wire ,15.000 ₫,"$0,58",1,"$0,58",Wire | Shopee VN,
-800MAh Li-po 3.7v battery,61.472 ₫,"$2,36",2,"$4,72",Li-po battery | Shopee VN,
-10x 100nF capacitors,10.000 ₫,"$0,38",1,"$0,38",100nF Capacitors | Shopee VN,for ESP32 and Sensors
-5x 47uF capacitors ,10.988 ₫,"$0,42",1,"$0,42",47uF Capacitors | Shopee VN,for Motors
-Resistors 47k + 100k Ohm,14.900 ₫,"$0,57",1,"$0,57",Resistors | Shopee VN,for battery reading
+ESP32-s3 SUPER MINI,129.900 ₫,"$4,98",1,"$4,98",ESP32-S3 SuperMini WiFi Bluetooth BLE 5.0 Type-C Dev Board 240MHz 4MB Flash Chính Hãng | Shopee Việt Nam,
+TOF050C VL6180,72.226 ₫,"$2,77",3,"$8,31",https://shopee.vn/M%C3%B4-%C4%91un-c%E1%BA%A3m-bi%E1%BA%BFn-ph%E1%BA%A1m-vi-TOF050C-TOF200C-TOF400C-Kho%E1%BA%A3ng-c%C3%A1ch-chuy%E1%BA%BFn-bay-ToF-%C4%91%E1%BA%A7u-ra-IIC-i.1337002665.56465468930?extraParams=%7B%22display_model_id%22%3A391324636077%2C%22model_selection_logic%22%3A3%7D,
+DC GA12 N20 DC Geared Motor 6VDC 300RPM,150.000 ₫,"$5,75",2,"$11,51",https://hshop.vn/dong-co-dc-giamtoc-ga12-n20-encoder,
+MCU-8574 PCF8574T,41.340 ₫,"$1,59",1,"$1,59",https://shopee.vn/Ah-ROBOT-%E3%80%91-PCF8574-PCF8574T-I-O-cho-giao-di%E1%BB%87n-c%E1%BB%95ng-I2C-IIC-H%E1%BB%97-tr%E1%BB%A3-m%C3%B4-%C4%91un-m%E1%BB%9F-r%E1%BB%99ng-cho-b%E1%BA%A3ng-m%E1%BB%9F-r%E1%BB%99ng-Arduino-High-Lo-i.1434959643.29230027145?extraParams=%7B%22display_model_id%22%3A252924976591%2C%22model_selection_logic%22%3A3%7D,
+TB6612FNG,55.000 ₫,"$2,11",1,"$2,11",https://shopee.vn/Tr%C3%ACnh-%C4%90i%E1%BB%81u-Khi%E1%BB%83n-%C4%90%E1%BB%99ng-C%C6%A1-K%C3%A9p-TB6612-1A-TB6612FNG-Cho-Arduino-L298N-i.578443443.23647942735?extraParams=%7B%22display_model_id%22%3A118952055156%2C%22model_selection_logic%22%3A3%7D,
+Buck Converter,25.000 ₫,"$0,96",1,"$0,96",https://shopee.vn/WeAct-M%E1%BA%A1ch-Buck-Step-Down-H%E1%BA%A1-%C3%A1p-DC-DC-0.6A-ch%C3%ADnh-h%C3%A3ng-i.882588972.28041630831?extraParams=%7B%22display_model_id%22%3A271585362565%2C%22model_selection_logic%22%3A3%7D,
+Switch,15.000 ₫,"$0,58",1,"$0,58",https://shopee.vn/5-C%C3%A1i-C%C3%B4ng-t%E1%BA%AFc-g%E1%BA%A1t-3-ch%E1%BA%A5u-on-off-(lo%E1%BA%A1i-t%E1%BB%91t).-C%C3%B4ng-t%E1%BA%AFc-MTS102-6A-125V-3A-250V.-C%C3%B4ng-t%E1%BA%AFc-b%E1%BA%ADp-b%C3%AAnh-Limo-i.333151953.18513528585?extraParams=%7B%22display_model_id%22%3A200763479213%2C%22model_selection_logic%22%3A3%7D,
+Ball Wheel,27.500 ₫,"$1,05",1,"$1,05",https://shopee.vn/B%C3%A1nh-xe-%C4%91a-h%C6%B0%E1%BB%9Bng-con-l%C4%83n-bi-c%E1%BA%A7u-v%C3%B2ng-bi-c%E1%BA%A7u-CY15A-CY25A-lo%E1%BA%A1i-chu%E1%BA%A9n-i.59961430.23870767343?extraParams=%7B%22display_model_id%22%3A243701700534%2C%22model_selection_logic%22%3A3%7D,
+N20 Wheels,20.000 ₫,"$0,77",2,"$1,53",https://shopee.vn/B%C3%A1nh-xe-%C4%91%E1%BB%99ng-c%C6%A1-GA12-N20-34mm-i.494330825.8781429510?extraParams=%7B%22display_model_id%22%3A36572699200%2C%22model_selection_logic%22%3A3%7D,
+Perf Board,25.500 ₫,"$0,98",1,"$0,98",https://shopee.vn/Bo-M%E1%BA%A1ch-%C4%90%E1%BB%A5c-L%E1%BB%97-S%E1%BA%B5n-Nhi%E1%BB%81u-K%C3%ADch-Th%C6%B0%E1%BB%9Bc-Kho%E1%BA%A3ng-C%C3%A1ch-L%E1%BB%97-2.54mm-D%C3%A0y-1.6mm-(PCB-l%E1%BB%97-Board-l%E1%BB%97)-i.1510124588.24143371089?extraParams=%7B%22display_model_id%22%3A243045009638%2C%22model_selection_logic%22%3A3%7D,
+Wire ,15.000 ₫,"$0,58",1,"$0,58",https://shopee.vn/-Linh-Ki%E1%BB%87n-%C4%90i%E1%BB%87n-T%E1%BB%AD-2M-D%C3%A2y-%C4%90%E1%BB%93ng-1-L%C3%B5i-0.6mm-C%E1%BA%AFm-Tesboard-N%E1%BB%91i-M%E1%BA%A1ch-PCB-i.1774297521.47665025775?extraParams=%7B%22display_model_id%22%3A431288029069%2C%22model_selection_logic%22%3A3%7D,
+800MAh Li-po 3.7v battery,61.472 ₫,"$2,36",2,"$4,72",https://shopee.vn/Pin-s%E1%BA%A1c-Lipo-3.7V-Dung-L%C6%B0%E1%BB%A3ng-T%E1%BB%AB-50-10000mAh-c%C3%B3-m%E1%BA%A1ch-b%E1%BA%A3o-v%E1%BB%87-pin-cho-tai-nghe-%C4%91%E1%BB%93ng-h%E1%BB%93-mic-kh%C3%B4ng-d%C3%A2y.-i.1191630361.44010675417?extraParams=%7B%22display_model_id%22%3A290896926510%2C%22model_selection_logic%22%3A3%7D,
+10x 100nF capacitors,10.000 ₫,"$0,38",1,"$0,38",https://shopee.vn/-T%C3%BAi-10-con-T%E1%BB%A5-%C4%91i%E1%BB%87n-g%E1%BB%91m-kh%C3%B4ng-ph%C3%A2n-c%E1%BB%B1c-101-102-103-104-i.101915397.52913659231?extraParams=%7B%22display_model_id%22%3A406182015997%2C%22model_selection_logic%22%3A3%7D,for ESP32 and Sensors
+5x 47uF capacitors ,10.988 ₫,"$0,42",1,"$0,42",https://shopee.vn/T%E1%BB%A5-H%C3%B3a-Ph%C3%A2n-C%E1%BB%B1c-16V-47uf-100uf-220uf-330uf-470uf-1000uf-2200uf-3300uf-i.1032535693.23773465937?extraParams=%7B%22display_model_id%22%3A175983999512%2C%22model_selection_logic%22%3A3%7D,for Motors
+Resistors 47k + 100k Ohm,14.900 ₫,"$0,57",1,"$0,57",https://shopee.vn/-Combo-50-%C4%90i%E1%BB%87n-Tr%E1%BB%9F-5-V%C3%B2ng-M%C3%A0u-1-4W-Sai-S%E1%BB%91-1-0.25W-4-V%C3%B2ng-M%C3%A0u-5-Tr%E1%BB%8B-S%E1%BB%91-T%E1%BB%AB-0-Ohm-%C4%91%E1%BA%BFn-10M-%C3%94m-Resistor-D%C3%A2y-R-Chu%E1%BA%A9n-i.315383150.22458793724?extraParams=%7B%22display_model_id%22%3A196038782351%2C%22model_selection_logic%22%3A3%7D,for battery reading
 some headers,15.000 ₫,"$0,58",1,"$0,58",,
 Total Price:,"$40,84",,,,,
