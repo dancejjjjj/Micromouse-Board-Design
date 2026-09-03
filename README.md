@@ -23,13 +23,13 @@ https://docs.google.com/spreadsheets/d/1piouLKvGbAHOj3b3Lox_jSpBq9OYytLLw8UId9fD
 
 ```text
 .
-├── hardware/
-|   ├── pcb/
-│   |   ├── micromouse.kicad_pro     # KiCad Project File
-│   |   ├── micromouse.kicad_sch     # Full Circuit Schematic (Primary reference)
-│   |   └── micromouse.kicad_pcb     # Reference PCB Layout (Do NOT fabricate directly)
-|   └── BOM.csv
+├── pcb/
+│   ├── micromouse.kicad_pro     # KiCad Project File
+│   ├── micromouse.kicad_sch     # Full Circuit Schematic (Primary reference)
+│   └── micromouse.kicad_pcb     # Reference PCB Layout (Do NOT fabricate directly)
+|   
+├── BOM.csv
 └── README.md
 ```
 ## View it 
-https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fdancejjjjj%2FMicromouse-Board-Design%2Ftree%2Fmain%2Fhardware
+https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fdancejjjjj%2FMicromouse-Board-Design%2Ftree%2Fmain%2Fpcb
