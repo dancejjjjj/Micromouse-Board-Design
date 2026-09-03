@@ -12,7 +12,7 @@ Hardware schematics and design files for an autonomous Micromouse robot based on
 
 ## 🧩 Bill of Materials (Key Components)
 
-![image alt](https:://github.com/dancejjjjj/Micromouse-Board-Design/assets/BOM.png)
+![Image](https://github.com/dancejjjjj/Micromouse-Board-Design/blob/main/assets/BOM.png)
 
 Google sheet link here:
 https://docs.google.com/spreadsheets/d/1piouLKvGbAHOj3b3Lox_jSpBq9OYytLLw8UId9fDQRM/edit?usp=sharing
